@@ -1,0 +1,11 @@
+{
+    "name":"IPL Score",
+    "version":"1.0.0",
+    "description":"update for IPL Live Score",
+    "manifest_version":3,
+    "author":"Laksh Sharma",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"IPL Live Score"
+    }
+}

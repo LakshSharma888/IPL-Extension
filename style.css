@@ -1,0 +1,10 @@
+body{
+    min-width: 300px;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+.img{
+    min-width: 300px;
+    height:10px;
+}
